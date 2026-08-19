@@ -58,7 +58,7 @@ systematically, and turning ideas into practical software.
 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,cs" alt="Programming languages"/>
 </p>
 
 📱 Android Development
@@ -181,16 +181,6 @@ Improve it.
 
 I prefer understanding the concepts behind a technology
 rather than simply learning how to use its APIs.
-
-📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=0xsoheildev&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsoheildev&layout=compact&hide_border=true" height="165" alt="Top languages"/>
-
-</div>
 
 🌐 Connect
 
